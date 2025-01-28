@@ -7,7 +7,6 @@
 (function() {
     'use strict';
 
-    // Define the code you want to inject
     const codeToInject = `
 let button = document.querySelector('ion-button[disabled]'); // Selects the button that is disabled
 
@@ -24,8 +23,7 @@ if (button) {
 }
     `;
 
-    // Listen for mouse click to execute the code
     document.addEventListener('click', function() {
-        eval(codeToInject); // Execute the code to enable the button
+        eval(codeToInject); 
     });
 })();
