@@ -1,4 +1,4 @@
-# button bypass for a certain driving school website in the Philippines 
+# Button bypass for a certain driving school website in the Philippines 
 *hint: roads that are not in danger*
 Tampermonkey script that bypasses the weird logic implemented on the website where you have to wait for 20 seconds before going to the next question. WHY DO I NEED TO WAIT FOR 20 SECONDS IF I KNOW IT ALREADY!!!
 
